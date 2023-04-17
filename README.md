@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brandon
 - 👀 I’m interested in becoming a computer programmer.
-- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on different projects .
 - 📫 How to reach me. You can reach me at brandonilievski@gmail.com
 
